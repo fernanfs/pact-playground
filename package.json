@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pact-foundation/pact-node": "^10.13.1"
+    "@pact-foundation/pact-node": "^10.13.1",
     "@pact-foundation/pact-core": "^11.1.0",
     "deasync": "^0.1.22"
   }
